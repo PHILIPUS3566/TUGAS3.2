@@ -1,0 +1,20 @@
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\bin\Debug\tugas 3.2.exe.config
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\bin\Debug\tugas 3.2.exe
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\bin\Debug\tugas 3.2.pdb
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.csproj.AssemblyReference.cache
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\obj\Debug\tugas_3._2.frmtugas3.resources
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\obj\Debug\tugas_3._2.Properties.Resources.resources
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.csproj.GenerateResource.cache
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.csproj.CoreCompileInputs.cache
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.exe
+D:\Semes3 Pemograman\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.pdb
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\bin\Debug\tugas 3.2.exe.config
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\bin\Debug\tugas 3.2.exe
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\bin\Debug\tugas 3.2.pdb
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.csprojAssemblyReference.cache
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\obj\Debug\tugas_3._2.frmtugas3.resources
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\obj\Debug\tugas_3._2.Properties.Resources.resources
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.csproj.GenerateResource.cache
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.csproj.CoreCompileInputs.cache
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.exe
+D:\MATERI SEMESTER 3\PEMROGRAMAN LANJUT\tugas 3.2\tugas 3.2\obj\Debug\tugas 3.2.pdb
